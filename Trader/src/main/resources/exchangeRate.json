@@ -1,0 +1,32 @@
+[{
+ "currency 1": "PLN",
+  "currency 2": "EUR",
+  "value": 0.22
+},
+
+  {
+    "currency 1": "PLN",
+    "currency 2": "USD",
+    "value": 0.24
+  },
+  {
+    "currency 1": "USD",
+    "currency 2": "EUR",
+    "value": 0.94
+  },
+  {
+    "currency 1": "USD",
+    "currency 2": "PLN",
+    "value": 4.29
+  },
+  {
+    "currency 1": "EUR",
+    "currency 2": "PLN",
+    "value": 4.59
+  },
+  {
+    "currency 1": "EUR",
+    "currency 2": "USD",
+    "value": 1.07
+  }
+]

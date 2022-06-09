@@ -10,3 +10,6 @@ Dostepne operacje:
   przelew na wybrany rachunek innego klienta
   sprawdzenie stanu konta
 Klient moze dodatkowo pobrać całościową historię transakcji, oraz szczegółową dla rodzaju operacji, konkretnej waluty, zakresu dat.
+
+Otrzymany feedback:
+"Powinieneś przede wszystkim zwrócić uwagę na odpowiednie zaplanowanie architektury (wykorzystanie repozytoriów, serwisów), warstwy powinny bazować na abstrakcjach nie na konkretnych implementacjach (odpowiednie użycie interfejsów) zaś modele domenowe powinny być wolne od logiki i służyć do przechowywania informacji."
